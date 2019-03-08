@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <array name="genres">
+        <item>Dangdut</item>
+        <item>Rock</item>
+        <item>Country</item>
+        <item>Reggae</item>
+    </array>
+</resources>
